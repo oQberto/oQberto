@@ -23,6 +23,8 @@ Ambitious novice Java developer with analytical thinking and diligence. A quick 
 
 <b>My GitHub Stats</b>
 
+![Metrics](https://metrics.lecoq.io/oQberto?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FMinsk)
+
 <a href="http://www.github.com/oQberto"><img src="https://github-readme-stats.vercel.app/api?username=oQberto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="oQberto's GitHub stats" /></a>
 
 <a href="https://github.com/oQberto" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oQberto&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
